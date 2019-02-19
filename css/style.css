@@ -50,21 +50,21 @@ body {
 }
 
 .carousel-item {
-  height: 450px;
+  height: 850px;
 }
 
 .carousel-image-1 {
-  background: url('../img/br1.jpg');
+  background: url('../img/ur1.jpg');
   background-size: cover;
 }
 
 .carousel-image-2 {
-  background: url('../img/br2.jpg');
+  background: url('../img/ur2.jpg');
   background-size: cover;
 }
 
 .carousel-image-3 {
-  background: url('../img/br1.jpg');
+  background: url('../img/ur4.jpg');
   background-size: cover;
 }
 
